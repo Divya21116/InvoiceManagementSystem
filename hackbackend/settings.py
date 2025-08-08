@@ -27,7 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 ALLOWED_HOSTS = [
-  "https://invoicemanagementsystem-95g0.onrender.com"
+  "invoicemanagementsystem-95g0.onrender.com"
 ]
 
 
