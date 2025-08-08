@@ -138,5 +138,5 @@ CSRF_COOKIE_SECURE=False
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",
     "http://localhost:3001",
-    "https://invoice-management-system-ui.vercel.app/" # Replace after Vercel deployment
+    "https://invoice-management-system-ui.vercel.app" # Replace after Vercel deployment
 ]
