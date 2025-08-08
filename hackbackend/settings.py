@@ -26,6 +26,9 @@ SECRET_KEY = 'django-insecure-rnp^kv_54s!3)k_tasc)&)oiquk@h-^7smkl%mv*851*nf1h2c
 DEBUG = True
 
 ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+  "https://invoicemanagementsystem-95g0.onrender.com"
+]
 
 
 # Application definition
